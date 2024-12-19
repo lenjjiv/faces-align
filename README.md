@@ -2,7 +2,7 @@
 
 Делаем выравнивание на примере [датасета](https://huggingface.co/datasets/bitmind/celeb-a-hq_training_faces) `bitmind/celeb-a-hq_training_faces`
 
-Пример выравнивания:
+### Пример выравнивания
 
 Исходные изображения:
 
